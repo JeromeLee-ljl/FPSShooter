@@ -1,0 +1,25 @@
+{
+  "autoGun": {
+    "fireInterval": 0.1,
+    "reloadTime": 2.2,
+    "recoilForce": 0.05,
+    "shakeForce": 0.01,
+    "bulletCount": 10000,
+    "capacity": 60,
+    "damage": 1,
+    "speed": 50
+  },
+  "semiGun": {
+    "fireInterval": 0,
+    "reloadTime": 2.2,
+    "recoilForce": 0.05,
+    "shakeForce": 0.01,
+    "bulletCount": 1000,
+    "capacity": 20,
+    "damage": 2,
+    "speed": 100
+  },
+  "sword": {
+    "damage": 5
+  }
+}
