@@ -15,8 +15,6 @@
 
 7.特效或是子弹使用对象池创建和回收                            ✔
 
-8.9月5日 DeadLine
-
 
 剩余内容
 
@@ -24,10 +22,9 @@
 2. 敌人生成  生成时状态重置             ✔
 3. 切换武器时 ui动画显示                ✔
 4. 刀剑造成攻击伤害                     ✔
-5. 枪子弹计数 总数 ui显示 ui装弹cd     ✔✔✔x
+5. 枪子弹计数 总数 ui显示 ui装弹cd图     ✔✔✔x
 6. GameManager中计分                   ✔
 7. 玩家死亡时弹出ui                    ✔
-8. 换一个好点的场景
-9. PlayerMovement用FSM重构
-10.PlayerWeaponController用FSM重构
-11.受伤闪红ui                           ✔
+8. PlayerMovement用FSM重构
+9.PlayerWeaponController用FSM重构
+10.受伤闪红ui                           ✔

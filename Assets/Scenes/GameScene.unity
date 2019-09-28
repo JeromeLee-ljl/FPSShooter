@@ -2296,6 +2296,21 @@ PrefabInstance:
       propertyPath: m_Layer
       value: 10
       objectReference: {fileID: 0}
+    - target: {fileID: 4748097975721312434, guid: d3d21e6d34e9a874a85921c1fd76d3e6,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4748097975913350938, guid: d3d21e6d34e9a874a85921c1fd76d3e6,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4748097976107364894, guid: d3d21e6d34e9a874a85921c1fd76d3e6,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: d3d21e6d34e9a874a85921c1fd76d3e6, type: 3}
 --- !u!1 &1906461555
@@ -3008,6 +3023,10 @@ PrefabInstance:
       propertyPath: damageMask
       value: 
       objectReference: {fileID: 2000616799}
+    - target: {fileID: 2146185542, guid: e348a01b07d802346be28bc8647d501b, type: 3}
+      propertyPath: scale
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e348a01b07d802346be28bc8647d501b, type: 3}
 --- !u!1001 &6788018778617983558
