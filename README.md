@@ -1,7 +1,7 @@
 # FPSShooter
 第一人称射击游戏
 
-没什么玩头，主要是模仿Assets/Other/Easy FPS/_scene中的操作效果，并将最近学到的应用到此项目中
+没什么玩头，主要是模仿Assets/Other/Easy FPS/_scene中的操作效果，并将最近所学应用到此项目中
 
 
 ### 操作
@@ -23,12 +23,12 @@ LAlt: 显示鼠标
 
 ### 演示
 
-![image](Assets/Images/DisPlay/game.png)  {: width="100" hegiht="30"}
-![image](Assets/Images/DisPlay/semi-aim.png)
-![image](Assets/Images/DisPlay/semi.png)
-![image](Assets/Images/DisPlay/shooting.png)
-![image](Assets/Images/DisPlay/sword.png)
-<img src="Assets/Images/DisPlay/game.png" width="100" hegiht="30" align=center />
+|   |   |
+|---|---|
+|![image](Assets/Images/DisPlay/game.png) |![image](Assets/Images/DisPlay/semi-aim.png)|
+|![image](Assets/Images/DisPlay/semi.png) |![image](Assets/Images/DisPlay/shooting.png)|
+|![image](Assets/Images/DisPlay/sword.png)| |
+
 
 ### 实现功能
 * 利用FSM和Animator配合改变敌人动画和状态 
